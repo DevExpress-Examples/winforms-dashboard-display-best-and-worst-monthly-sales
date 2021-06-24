@@ -3,7 +3,7 @@
 
 * [Form1.cs](./CS/Dashboard_AggrSalesByMonths/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_AggrSalesByMonths/Form1.vb))
 <!-- default file list end -->
-# How to display best and worst monthly sales for each year
+# Dashboard for WinForms - How to display best and worst monthly sales for each year
 
 
 This example shows how to display the highest and lowest monthly sales for each year.
