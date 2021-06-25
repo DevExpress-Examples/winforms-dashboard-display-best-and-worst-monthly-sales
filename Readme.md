@@ -12,7 +12,7 @@ This example shows how to display the highest and lowest monthly sales for each 
 
 In this example, the Chart dashboard item shows yearly sales numbers.
 
-![screenshot](https://docs.devexpress.com/Dashboard/images/aggr_example1_salesbyyear122812.png)
+![screenshot](/images/aggr_example1_salesbyyear122812.png)
 
 To display the highest/lowest monthly sales for each year, the following expression is used:
 
