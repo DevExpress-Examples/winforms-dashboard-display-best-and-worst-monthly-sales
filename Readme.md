@@ -14,7 +14,7 @@ In this example, the Chart dashboard item shows yearly sales numbers.
 
 ![screenshot](https://docs.devexpress.com/Dashboard/images/aggr_example1_salesbyyear122812.png)
 
-To display the highest/lowest monthly sales for each year, create a new calculated field with the following expression.
+To display the highest/lowest monthly sales for each year, the following expression is used:
 
 ```
 aggr(Sum([Sales]), GetYear([OrderDate]), GetMonth([OrderDate]))
