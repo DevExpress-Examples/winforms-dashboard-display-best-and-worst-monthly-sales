@@ -1,7 +1,8 @@
-﻿Imports DevExpress.XtraBars.Ribbon
+Imports DevExpress.XtraBars.Ribbon
 
 Namespace Dashboard_AggrSalesByMonths
-    Partial Public Class Form1
+
+    Public Partial Class Form1
         Inherits RibbonForm
 
         Public Sub New()
